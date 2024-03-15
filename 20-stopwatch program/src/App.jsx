@@ -1,10 +1,10 @@
-
+import Stopwatch from "./StopWatch"
 
 function App() {
 
   return (
     <>
-      
+      <Stopwatch/>
     </>
   )
 }
